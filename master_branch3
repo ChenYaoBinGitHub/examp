@@ -1,2 +1,8 @@
 master_branch3
+<<<<<<< HEAD
 333 master write on master_branch3
+=======
+1 write on branch2 to master_branch3
+22 write on branch2 to master_branch3
+>>>>>>> branch2
+master merge master_branch3
